@@ -17,3 +17,4 @@ def maximum_weighted_independent_set(G, w):
             i -= 2
     
     return S
+    #yield S
